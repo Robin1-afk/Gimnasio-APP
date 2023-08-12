@@ -5,6 +5,8 @@
 /tmp
 /out-tsc
 /bazel-out
+/Gimnasio-API/
+
 
 # Node
 /node_modules
